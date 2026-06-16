@@ -60,7 +60,7 @@ The objective of this project is to validate phone numbers and website URLs usin
 - Validation history tracking
 
 ## Author
-
+2nd year project(3rd semister)
 B.Tech Computer Science and Engineering
 
 Academic Mini Project
